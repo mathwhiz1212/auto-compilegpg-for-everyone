@@ -14,3 +14,5 @@ Please check the sha1sum from the sha file e.g. sha1sum GnuPG1.4.19.sh and compa
 This is a version of https://github.com/mathwhiz1212/autocompilegpg that allows for more operating systems and architectures and carries the assurance that there is nothing in the dependecies that shouldn't be there.
 
 For the faster version of the script that compiles GPG from source but does not compile any of the dependecies but uses a precompiled version: https://github.com/mathwhiz1212/autocompilegpg
+
+This script is licensed under GPLv3 any software other than the script that may be included or used here you will have to look at the license(s) for that software. This version of the script uses GPG which is licensed under GPLv3+ and I am not aware of the licenses for the dependecies.
