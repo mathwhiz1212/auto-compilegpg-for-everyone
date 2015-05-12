@@ -3,18 +3,5 @@
 #This is free software: you are free to change and redistribute it.
 #There is NO WARRANTY, to the extent permitted by law.
 
-#This script installs GnuPG-1.4.19 or upgrades current version to GnuPG-1.4.19.
-
-#Installs curse library that dpkg depends on.
-tar -zxvf ncurses_5.9.orig.tar.gz
-cd ncurses-5.9
-./configure
-make 
-sudo make install
-
-#Installs and dpkg. (and dpkg-dev)
-tar -xJf dpkg_1.17.25.tar.xz
-cd dpkg-1.17.25
-./configure 
-make
-sudo make install
+#This script installs GnuPG-1.4.19 or upgrades current version to GnuPG-1.4.19 and hopefully will compile gcc 5.
+echo This script is under development, please try back later.
