@@ -1,4 +1,6 @@
 # auto-compilegpg-for-everyone
+DO NOT USE! This is a development version and it will not work.
+
 The goal of this script is to automatically compile GPG and all of the dependecies (build-essentials and all dependecies) to allow for the script to work on almost all architectures and linux operating systems.
 
 This script installs GnuPG-1.4.19 or upgrades current version to GnuPG-1.4.19.
