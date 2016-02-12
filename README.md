@@ -1,4 +1,6 @@
 # auto-compilegpg-for-everyone
+[This has been abandoned, please fork it. If you want this to continue please make an issue on this repository or send me an email at theonlyanonymouspgrogrammer@gmail.com]
+
 DO NOT USE! This is a development version and it will not work.
 
 The goal of this script is to automatically compile GPG and all of the dependecies (build-essentials and all dependecies) to allow for the script to work on almost all architectures and linux operating systems.
